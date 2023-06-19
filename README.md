@@ -13,7 +13,7 @@ pip install bs4
 pip install requests
 pip install rich
 pip install mechanize
-git clone https://github.com/XyzonXD/denszmbf
+git clone https://github.com/XyzonXD/denszmbf-2.2
  ```
  oke sekarang script sudah terinstall
 #### CARA MENJALANKAN SCRIPT:
